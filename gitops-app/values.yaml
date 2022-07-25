@@ -1,6 +1,5 @@
-replicaCount: 1
-
+replicaCount: 2
 image:
   repository: nginx
   pullPolicy: IfNotPresent
-  tag: ""
+  tag: "2369b0cdb1918ad82f29eca55f5598e92098c7e4"
